@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\sınıflar\bin\Debug\net7.0\sınıflar.exe
+C:\Users\MONSTER\GitProject\sınıflar\bin\Debug\net7.0\sınıflar.deps.json
+C:\Users\MONSTER\GitProject\sınıflar\bin\Debug\net7.0\sınıflar.runtimeconfig.json
+C:\Users\MONSTER\GitProject\sınıflar\bin\Debug\net7.0\sınıflar.dll
+C:\Users\MONSTER\GitProject\sınıflar\bin\Debug\net7.0\sınıflar.pdb
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.dll
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\refint\sınıflar.dll
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.pdb
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\sınıflar.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\sınıflar\obj\Debug\net7.0\ref\sınıflar.dll
